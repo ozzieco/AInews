@@ -509,7 +509,7 @@
   <outline htmlUrl="https://www.healthtechmagazine.net/" text="HealthTech Magazine" title="HealthTech Magazine" type="rss" xmlUrl="https://feeds.feedburner.com/HealthTechMagazine"/>
   <outline htmlUrl="https://huggingface.co/blog" text="Hugging Face – Blog" title="Hugging Face – Blog" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml"/>
   <outline htmlUrl="https://spectrum.ieee.org/" text="IEEE Spectrum – AI" title="IEEE Spectrum – AI" type="rss" xmlUrl="https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"/>
-  <outline htmlUrl="https://www.infoq.com/" text="InfoQ – AI, ML & Data Engineering" title="InfoQ – AI, ML & Data Engineering" type="rss" xmlUrl="https://feed.infoq.com/ai-ml-data-eng/"/>
+    <outline htmlUrl="https://www.infoq.com/" text="InfoQ – AI, ML &amp; Data Engineering" title="InfoQ – AI, ML &amp; Data Engineering" type="rss" xmlUrl="https://feed.infoq.com/ai-ml-data-eng/"/>
   <outline htmlUrl="https://www.infoworld.com/category/analytics/" text="InfoWorld – Analytics" title="InfoWorld – Analytics" type="rss" xmlUrl="https://www.infoworld.com/category/analytics/index.rss"/>
   <outline htmlUrl="https://www.infoworld.com/category/machine-learning/" text="InfoWorld – Machine Learning" title="InfoWorld – Machine Learning" type="rss" xmlUrl="https://www.infoworld.com/category/machine-learning/index.rss"/>
   <outline htmlUrl="https://insidebigdata.com/" text="insideBIGDATA" title="insideBIGDATA" type="rss" xmlUrl="https://insidebigdata.com/feed"/>
@@ -525,7 +525,7 @@
   <outline htmlUrl="https://www.zdnet.com/topic/big-data/" text="ZDNET – Big Data" title="ZDNET – Big Data" type="rss" xmlUrl="https://www.zdnet.com/topic/big-data/rss.xml"/>
   <outline htmlUrl="https://lightning.ai/" text="Lightning AI" title="Lightning AI" type="rss" xmlUrl="https://lightning.ai/pages/feed/"/>
   <outline htmlUrl="https://www.reddit.com/r/MachineLearning" text="Machine Learning – Reddit" title="Machine Learning – Reddit" type="rss" xmlUrl="https://www.reddit.com/r/MachineLearning"/>
-  <outline htmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/" text="Machine Learning & Big Data – BMC Blogs" title="Machine Learning & Big Data – BMC Blogs" type="rss" xmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/feed"/>
+  <outline htmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/" text="Machine Learning &amp; Big Data – BMC Blogs" title="Machine Learning &amp; Big Data – BMC Blogs" type="rss" xmlUrl="https://www.bmc.com/blogs/categories/machine-learning-big-data/feed"/>
   <outline htmlUrl="https://blog.ml.cmu.edu/" text="Machine Learning Blog – CMU" title="Machine Learning Blog – CMU" type="rss" xmlUrl="https://blog.ml.cmu.edu/feed"/>
   <outline htmlUrl="https://www.nature.com/subjects/machine-learning" text="Machine Learning – Nature.com" title="Machine Learning – Nature.com" type="rss" xmlUrl="https://www.nature.com/subjects/machine-learning.rss"/>
   <outline htmlUrl="https://www.reddit.com/r/machinelearningnews" text="machinelearningnews – Reddit" title="machinelearningnews – Reddit" type="rss" xmlUrl="https://www.reddit.com/r/machinelearningnews"/>
@@ -539,8 +539,8 @@
   <outline htmlUrl="https://www.sciencedaily.com/news/computers_math/neural_interfaces/" text="Neural Interfaces News – ScienceDaily" title="Neural Interfaces News – ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/neural_interfaces.xml"/>
   <outline htmlUrl="https://www.reddit.com/r/neuralnetworks" text="Neural Networks, Deep Learning and Machine Learning – Reddit" title="Neural Networks, Deep Learning and Machine Learning – Reddit" type="rss" xmlUrl="https://www.reddit.com/r/neuralnetworks"/>
   <outline htmlUrl="https://www.newscientist.com/subject/technology/" text="New Scientist – Technology" title="New Scientist – Technology" type="rss" xmlUrl="https://www.newscientist.com/subject/technology/feed/"/>
-  <outline htmlUrl="https://phys.org/technology-news/machine-learning-ai/" text="News on AI & ML – Phys.org" title="News on AI & ML – Phys.org" type="rss" xmlUrl="https://phys.org/rss-feed/technology-news/machine-learning-ai/"/>
-  <outline htmlUrl="https://techxplore.com/machine-learning-ai-news/" text="News on AI & ML – Tech Xplore" title="News on AI & ML – Tech Xplore" type="rss" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/"/>
+  <outline htmlUrl="https://phys.org/technology-news/machine-learning-ai/" text="News on AI &amp; ML – Phys.org" title="News on AI &amp; ML – Phys.org" type="rss" xmlUrl="https://phys.org/rss-feed/technology-news/machine-learning-ai/"/>
+  <outline htmlUrl="https://techxplore.com/machine-learning-ai-news/" text="News on AI &amp; ML – Tech Xplore" title="News on AI &amp; ML – Tech Xplore" type="rss" xmlUrl="https://techxplore.com/rss-feed/machine-learning-ai-news/"/>
   <outline htmlUrl="https://www.assemblyai.com/blog" text="AssemblyAI – News, Tutorials, AI Research" title="AssemblyAI – News, Tutorials, AI Research" type="rss" xmlUrl="https://www.assemblyai.com/blog/rss/"/>
   <outline htmlUrl="https://nicholas.carlini.com/writing/" text="Nicholas Carlini" title="Nicholas Carlini" type="rss" xmlUrl="https://nicholas.carlini.com/writing/feed.xml"/>
   <outline htmlUrl="https://developer.nvidia.com/blog/" text="NVIDIA Technical Blog" title="NVIDIA Technical Blog" type="rss" xmlUrl="https://developer.nvidia.com/blog/feed"/>
@@ -602,7 +602,7 @@
   <outline htmlUrl="https://www.vice.com/en/topic/ai" text="VICE US – AI" title="VICE US – AI" type="rss" xmlUrl="https://www.vice.com/en/rss/topic/ai"/>
   <outline htmlUrl="https://visualstudiomagazine.com/" text="Visual Studio Magazine" title="Visual Studio Magazine" type="rss" xmlUrl="https://visualstudiomagazine.com/rss-feeds/news.aspx"/>
   <outline htmlUrl="https://voicebot.ai/" text="Voicebot.ai" title="Voicebot.ai" type="rss" xmlUrl="https://voicebot.ai/feed/"/>
-  <outline htmlUrl="https://wandb.ai/fully-connected" text="Weights & Biases: Fully Connected" title="Weights & Biases: Fully Connected" type="rss" xmlUrl="https://wandb.ai/fully-connected/rss.xml"/>
+  <outline htmlUrl="https://wandb.ai/fully-connected" text="Weights &amp; Biases: Fully Connected" title="Weights &amp; Biases: Fully Connected" type="rss" xmlUrl="https://wandb.ai/fully-connected/rss.xml"/>
   <outline htmlUrl="https://blogs.windows.com/" text="Windows Blog" title="Windows Blog" type="rss" xmlUrl="https://blogs.windows.com/feed"/>
   <outline htmlUrl="https://blog.wolfram.com/" text="Wolfram Blog" title="Wolfram Blog" type="rss" xmlUrl="https://blog.wolfram.com/feed/"/>
   <outline htmlUrl="https://aihub.org/" text="ΑΙhub" title="ΑΙhub" type="rss" xmlUrl="https://aihub.org/feed?cat=-473"/>
